@@ -8,7 +8,7 @@ MDR_ARAP,Arappalayam,9.9179,78.1039,Arappalayam bus stand
 MDR_GORIP,Goripalayam,9.9357,78.1217,Goripalayam junction
 MDR_TALLA,Tallakulam,9.9424,78.1343,Tallakulam bus stop
 MDR_TEPP,Teppakulam (Mariamman),9.9269,78.1488,Theppakulam stop
-MDR_RAIL, Madurai Junction (Railway),9.9256,78.1141, Railway junction front
+MDR_RAIL,Madurai Junction (Railway),9.9256,78.1141,Railway junction front
 MDR_AIRPT,Madurai Airport,9.8345,78.0934,Airport terminal stop
 MDR_KAPPALUR,Kappalur,9.8716,78.0536,Kappalur stop
 MDR_THIRUPAR,Thiruparankundram Temple,9.8822,78.0763,Temple bus stop
@@ -19,7 +19,6 @@ MDR_P&T,P & T Nagar,9.9348,78.1408,P&T Nagar stop
 MDR_MADUKULAM,Madukulathur Rd Junction,9.8721,78.1359,South corridor
 MDR_PASUMALAI,Pasumalai,9.8970,78.1060,Pasumalai stop
 MDR_THIRUPPALAI,Thiruppalai,9.9743,78.1648,North corridor
-
 
 stop_id,stop_name,stop_lat,stop_lon
 # --- Krishnankoil / KLU area ---
@@ -76,3 +75,26 @@ NH44_MDU_1,NH44 Corridor Stop 1,9.8600,78.0200
 NH44_MDU_2,NH44 Corridor Stop 2,9.8000,77.9500
 NH44_MDU_3,NH44 Corridor Stop 3,9.7200,77.8800
 NH44_MDU_4,NH44 Corridor Stop 4,9.6500,77.8200
+
+# --- Virudhunagar (city + Collector Office belt) ---
+VRD_NEW_BS,Virudhunagar New Bus Stand,9.5875,77.9575
+VRD_OLD_BS,Virudhunagar Old Bus Stand,9.5855,77.9550
+VRD_RAIL,Virudhunagar Railway Station,9.5845,77.9620
+VRD_COLLECTOR,Virudhunagar Collector Office Stop,9.5890,77.9590
+VRD_COL_RD1,Collectorate Road East Stop,9.5898,77.9610
+VRD_COL_RD2,Collectorate Road West Stop,9.5882,77.9565
+VRD_GH,Virudhunagar Govt Hospital Stop,9.5865,77.9605
+VRD_TOWN,Virudhunagar Town Bus Stop,9.5888,77.9542
+VRD_BYPASS_NH,Virudhunagar NH Bypass Stop,9.5925,77.9490
+
+# --- Trichy (Tiruchirappalli city + Collector Office belt) ---
+TRY_CBS,Trichy Central Bus Stand,10.7905,78.7047
+TRY_CHATHRAM,Chathiram Bus Stand,10.8130,78.6960
+TRY_JN,Railway Junction (Tiruchirappalli Jn),10.7949,78.6828
+TRY_COLLECTOR,Trichy Collector Office Stop,10.8045,78.6875
+TRY_COL_RD1,Collector Office Road Stop North,10.8060,78.6885
+TRY_COL_RD2,Collector Office Road Stop South,10.8030,78.6865
+TRY_CANTON,Cantonment Bus Stop,10.8000,78.6900
+TRY_TOWNHALL,Trichy Town Hall Stop,10.8040,78.6895
+TRY_THILLAINAGAR,Thillai Nagar Main Stop,10.8090,78.6890
+TRY_AIRPORT_RD,Trichy Airport Road Stop,10.7670,78.7090
