@@ -19,82 +19,65 @@ MDR_P&T,P & T Nagar,9.9348,78.1408,P&T Nagar stop
 MDR_MADUKULAM,Madukulathur Rd Junction,9.8721,78.1359,South corridor
 MDR_PASUMALAI,Pasumalai,9.8970,78.1060,Pasumalai stop
 MDR_THIRUPPALAI,Thiruppalai,9.9743,78.1648,North corridor
-
-stop_id,stop_name,stop_lat,stop_lon
-# --- Krishnankoil / KLU area ---
-KLU_GATE,Kalasalingam Univ Main Gate,9.5768,77.7443
-KLU_INT_KRISH,Krishnankoil Junction (NH),9.5832,77.7428
-KLU_ENGG,KLU Engineering Block Stop,9.5794,77.7461
-KLU_HOSTEL,KLU Hostel Stop,9.5749,77.7470
-KLU_ANKK,Ananda Nagar Stop,9.5705,77.7409
-KRISH_MARKET,Krishnankoil Market,9.5859,77.7469
-KRISH_NH44_1,NH44 Wayside Stop 1,9.5905,77.7420
-KRISH_NH44_2,NH44 Wayside Stop 2,9.5972,77.7396
-KRISH_TOWNHALL,Krishnankoil Townhall Stop,9.5886,77.7501
-
-# --- Srivilliputtur ---
-SRIVI_BS,Srivilliputtur Bus Stand,9.5125,77.6331
-SRIVI_RS,Srivilliputtur Railway Station,9.5093,77.6360
-SRIVI_THERMAL,Thenkasi Road Junction,9.5067,77.6278
-SRIVI_OLDBUS,Old Bus Stand Stop,9.5159,77.6395
-SRIVI_GH,Govt Hospital Stop,9.5139,77.6372
-SRIVI_KATCHERI,Collectorate Road Stop,9.5172,77.6304
-SRIVI_TOWN,Main Bazaar Stop,9.5111,77.6315
-SRIVI_DEVASTHANAM,Andal Temple Stop,9.5129,77.6291
-SRIVI_NH744_1,NH744 Bypass Stop 1,9.5203,77.6416
-SRIVI_NH744_2,NH744 Bypass Stop 2,9.5264,77.6452
-
-# --- Madurai hubs (connectivity) ---
-MDR_PERIYAR,Periyar Bus Stand,9.9196,78.1193
-MDR_ARAP,Arappalayam Bus Stand,9.9117,78.1033
-MDR_GORIP,Goripalayam,9.9311,78.1252
-MDR_PALANG,Palanganatham,9.9008,78.1173
-MDR_MATTU,Mattuthavani MIBT,9.9506,78.1660
-MDR_TPKM,Thiruparankundram Temple Stop,9.8823,78.0733
-MDR_TALLAK,K.K. Nagar Tallakulam,9.9397,78.1358
-
-# --- Madurai Avaniyapuram side (near you) ---
-AVANI_BS,Avaniyapuram Bus Stand,9.8855,78.1145
-AVANI_RAJAJI,Rajaji Park Stop (Avaniyapuram),9.8891,78.1184
-AVANI_MAIN,Avaniyapuram Main Road Stop,9.8880,78.1120
-AVANI_CHECK,Avaniyapuram Check Post,9.8822,78.1101
-AVANI_TPKM_RD,TPK Main Road Junction,9.8927,78.1077
-AVANI_STADIUM,Avaniyapuram Stadium Stop,9.8871,78.1209
-AVANI_MUTHU,Avaniyapuram Muthuramalinga Thevar Statue,9.8837,78.1168
-AVANI_PUDUR,Pudur Road Junction,9.8795,78.1119
-
-# --- Extra corridor points linking Avaniyapuram to hubs ---
-MDR_PONNAG,Ponmeni Stop,9.9001,78.1062
-MDR_THIRUNAGAR,Thirunagar Stop,9.8936,78.0948
-MDR_ELLIS,Ellis Nagar Stop,9.9118,78.1115
-MDR_SOUTHGATE,South Gate Stop,9.9144,78.1209
-MDR_ANNA_BUS,Anna Bus Stand Vicinity,9.9226,78.1200
-
-# --- Extra: along NH toward KLU from Madurai side (for longer demos) ---
-NH44_MDU_1,NH44 Corridor Stop 1,9.8600,78.0200
-NH44_MDU_2,NH44 Corridor Stop 2,9.8000,77.9500
-NH44_MDU_3,NH44 Corridor Stop 3,9.7200,77.8800
-NH44_MDU_4,NH44 Corridor Stop 4,9.6500,77.8200
-
-# --- Virudhunagar (city + Collector Office belt) ---
-VRD_NEW_BS,Virudhunagar New Bus Stand,9.5875,77.9575
-VRD_OLD_BS,Virudhunagar Old Bus Stand,9.5855,77.9550
-VRD_RAIL,Virudhunagar Railway Station,9.5845,77.9620
-VRD_COLLECTOR,Virudhunagar Collector Office Stop,9.5890,77.9590
-VRD_COL_RD1,Collectorate Road East Stop,9.5898,77.9610
-VRD_COL_RD2,Collectorate Road West Stop,9.5882,77.9565
-VRD_GH,Virudhunagar Govt Hospital Stop,9.5865,77.9605
-VRD_TOWN,Virudhunagar Town Bus Stop,9.5888,77.9542
-VRD_BYPASS_NH,Virudhunagar NH Bypass Stop,9.5925,77.9490
-
-# --- Trichy (Tiruchirappalli city + Collector Office belt) ---
-TRY_CBS,Trichy Central Bus Stand,10.7905,78.7047
-TRY_CHATHRAM,Chathiram Bus Stand,10.8130,78.6960
-TRY_JN,Railway Junction (Tiruchirappalli Jn),10.7949,78.6828
-TRY_COLLECTOR,Trichy Collector Office Stop,10.8045,78.6875
-TRY_COL_RD1,Collector Office Road Stop North,10.8060,78.6885
-TRY_COL_RD2,Collector Office Road Stop South,10.8030,78.6865
-TRY_CANTON,Cantonment Bus Stop,10.8000,78.6900
-TRY_TOWNHALL,Trichy Town Hall Stop,10.8040,78.6895
-TRY_THILLAINAGAR,Thillai Nagar Main Stop,10.8090,78.6890
-TRY_AIRPORT_RD,Trichy Airport Road Stop,10.7670,78.7090
+KLU_GATE,Kalasalingam Univ Main Gate,9.5768,77.7443,Krishnankoil KLU main gate
+KLU_INT_KRISH,Krishnankoil Junction (NH),9.5832,77.7428,Krishnankoil junction on NH44
+KLU_ENGG,KLU Engineering Block Stop,9.5794,77.7461,KLU engineering campus stop
+KLU_HOSTEL,KLU Hostel Stop,9.5749,77.7470,KLU hostel stop
+KLU_ANKK,Ananda Nagar Stop,9.5705,77.7409,Ananda Nagar local stop
+KRISH_MARKET,Krishnankoil Market,9.5859,77.7469,Krishnankoil market area
+KRISH_NH44_1,NH44 Wayside Stop 1,9.5905,77.7420,Wayside stop along NH44
+KRISH_NH44_2,NH44 Wayside Stop 2,9.5972,77.7396,Wayside stop along NH44
+KRISH_TOWNHALL,Krishnankoil Townhall Stop,9.5886,77.7501,Townhall nearby stop
+SRIVI_BS,Srivilliputtur Bus Stand,9.5125,77.6331,Main city bus stand
+SRIVI_RS,Srivilliputtur Railway Station,9.5093,77.6360,Railway station stop
+SRIVI_THERMAL,Thenkasi Road Junction,9.5067,77.6278,Thenkasi road junction stop
+SRIVI_OLDBUS,Old Bus Stand Stop,9.5159,77.6395,Old bus stand area
+SRIVI_GH,Govt Hospital Stop,9.5139,77.6372,Govt. hospital front stop
+SRIVI_KATCHERI,Collectorate Road Stop,9.5172,77.6304,Collectorate road side stop
+SRIVI_TOWN,Main Bazaar Stop,9.5111,77.6315,Main bazaar stop
+SRIVI_DEVASTHANAM,Andal Temple Stop,9.5129,77.6291,Andal temple vicinity
+SRIVI_NH744_1,NH744 Bypass Stop 1,9.5203,77.6416,NH744 bypass corridor stop
+SRIVI_NH744_2,NH744 Bypass Stop 2,9.5264,77.6452,NH744 bypass corridor stop
+MDR_PERIYAR2,Periyar Bus Stand (Alt),9.9196,78.1193,Alternate Periyar mapping
+MDR_ARAP2,Arappalayam Bus Stand (Alt),9.9117,78.1033,Alternate Arappalayam mapping
+MDR_GORIP2,Goripalayam (Alt),9.9311,78.1252,Alternate Goripalayam mapping
+MDR_PALANG2,Palanganatham (Alt),9.9008,78.1173,Alternate Palanganatham mapping
+MDR_MATTU2,Mattuthavani MIBT (Alt),9.9506,78.1660,Alternate Mattuthavani mapping
+MDR_TPKM,Thiruparankundram Temple Stop,9.8823,78.0733,Temple area alt stop
+MDR_TALLAK,K.K. Nagar Tallakulam,9.9397,78.1358,KK Nagar–Tallakulam corridor stop
+AVANI_BS,Avaniyapuram Bus Stand (Local),9.8855,78.1145,Local Avaniyapuram stand
+AVANI_RAJAJI,Rajaji Park Stop (Avaniyapuram),9.8891,78.1184,Rajaji park front stop
+AVANI_MAIN,Avaniyapuram Main Road Stop,9.8880,78.1120,Main road corridor stop
+AVANI_CHECK,Avaniyapuram Check Post,9.8822,78.1101,Check post junction stop
+AVANI_TPKM_RD,TPK Main Road Junction,9.8927,78.1077,TPK main road cross
+AVANI_STADIUM,Avaniyapuram Stadium Stop,9.8871,78.1209,Stadium area stop
+AVANI_MUTHU,Muthuramalinga Thevar Statue,9.8837,78.1168,Statue circle stop
+AVANI_PUDUR,Pudur Road Junction,9.8795,78.1119,Pudur road crossing
+MDR_PONNAG,Ponmeni Stop,9.9001,78.1062,Ponmeni area stop
+MDR_THIRUNAGAR2,Thirunagar Stop (Alt),9.8936,78.0948,Thirunagar corridor stop
+MDR_ELLIS,Ellis Nagar Stop,9.9118,78.1115,Ellis Nagar locality stop
+MDR_SOUTHGATE,South Gate Stop,9.9144,78.1209,South gate into city
+MDR_ANNA_BUS,Anna Bus Stand Vicinity,9.9226,78.1200,Anna bus stand surroundings
+NH44_MDU_1,NH44 Corridor Stop 1,9.8600,78.0200,Highway corridor stop
+NH44_MDU_2,NH44 Corridor Stop 2,9.8000,77.9500,Highway corridor stop
+NH44_MDU_3,NH44 Corridor Stop 3,9.7200,77.8800,Highway corridor stop
+NH44_MDU_4,NH44 Corridor Stop 4,9.6500,77.8200,Highway corridor stop
+VRD_NEW_BS,Virudhunagar New Bus Stand,9.5875,77.9575,New city bus stand
+VRD_OLD_BS,Virudhunagar Old Bus Stand,9.5855,77.9550,Old town bus stand
+VRD_RAIL,Virudhunagar Railway Station,9.5845,77.9620,Railway station front
+VRD_COLLECTOR,Virudhunagar Collector Office Stop,9.5890,77.9590,Collector office nearby stop
+VRD_COL_RD1,Collectorate Road East Stop,9.5898,77.9610,Collectorate road east side
+VRD_COL_RD2,Collectorate Road West Stop,9.5882,77.9565,Collectorate road west side
+VRD_GH,Virudhunagar Govt Hospital Stop,9.5865,77.9605,Govt hospital vicinity
+VRD_TOWN,Virudhunagar Town Bus Stop,9.5888,77.9542,Town center bus stop
+VRD_BYPASS_NH,Virudhunagar NH Bypass Stop,9.5925,77.9490,NH bypass corridor stop
+TRY_CBS,Trichy Central Bus Stand,10.7905,78.7047,Central bus stand
+TRY_CHATHRAM,Chathiram Bus Stand,10.8130,78.6960,Chathiram stand area
+TRY_JN,Railway Junction (Tiruchirappalli Jn),10.7949,78.6828,Main junction railway station
+TRY_COLLECTOR,Trichy Collector Office Stop,10.8045,78.6875,Collector office nearby stop
+TRY_COL_RD1,Collector Office Road Stop North,10.8060,78.6885,Collector road north side
+TRY_COL_RD2,Collector Office Road Stop South,10.8030,78.6865,Collector road south side
+TRY_CANTON,Cantonment Bus Stop,10.8000,78.6900,Cantonment area stop
+TRY_TOWNHALL,Trichy Town Hall Stop,10.8040,78.6895,Town hall surroundings
+TRY_THILLAINAGAR,Thillai Nagar Main Stop,10.8090,78.6890,Thillai Nagar main road stop
+TRY_AIRPORT_RD,Trichy Airport Road Stop,10.7670,78.7090,Airport road corridor stop
