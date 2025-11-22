@@ -260,7 +260,7 @@ def get_upcoming_for_stop(stop_id: str, now_dt: datetime, window_minutes: int = 
 # ---------- endpoints ----------
 
 @app.get("/stops/nearby")
-async def stops_nearby(lat: float, lon: float, radius: int = 2500, max_results: int = 100):
+async def stops_nearby(lat: float, lon: float, radius: int = 700000, max_results: int = 100):
     center_lat, center_lon = float(lat), float(lon)
     result = []
     for s in stops.values():
