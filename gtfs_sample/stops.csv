@@ -81,3 +81,35 @@ TRY_CANTON,Cantonment Bus Stop,10.8000,78.6900,Cantonment area stop
 TRY_TOWNHALL,Trichy Town Hall Stop,10.8040,78.6895,Town hall surroundings
 TRY_THILLAINAGAR,Thillai Nagar Main Stop,10.8090,78.6890,Thillai Nagar main road stop
 TRY_AIRPORT_RD,Trichy Airport Road Stop,10.7670,78.7090,Airport road corridor stop
+
+MNP_MAINBS,Manapparai Main Bus Stand,10.6205,78.4258,Central bus stand of Manapparai
+MNP_RAIL,Manapparai Railway Station,10.6201,78.4306,Train station front
+MNP_GH,Manapparai Govt Hospital Stop,10.6214,78.4330,Government hospital vicinity
+MNP_COLLEGE,Manapparai Govt College Stop,10.6262,78.4322,College area bus stop
+MNP_TOWN,Municipal Market Stop,10.6224,78.4276,Town market junction
+MNP_NH45_JN,NH45 Manapparai Junction,10.6287,78.4308,NH45 intersection entry
+MNP_CHATHIRAM,Chathiram Road Stop,10.6242,78.4289,Chathiram road cross stop
+MNP_PUDUR,Manapparai Pudur Stop,10.6130,78.4272,Pudur village entry stop
+MNP_ELLUPATTI,Ellupatti Stop,10.6095,78.4210,Ellupatti village stop
+MNP_ARASARADI,Arasaradi Stop,10.6375,78.4288,Arasaradi main stop
+MNP_KURUMBAPATTY,Kurumbapatti Stop,10.6322,78.4439,Kurumbapatti village stop
+MNP_NATHAM,Natham Bus Stop,10.6010,78.4450,Natham road junction stop
+
+MNP_VIRALIMALAI,Viralimalai Bus Stand,10.6612,78.5319,Main Viralimalai bus stand
+MNP_VIRALIMALAI_TEMPLE,Viralimalai Murugan Temple Stop,10.6662,78.5322,Temple hill stop
+MNP_KANNANKURICHI,Kannankurichi Stop (Viralimalai Road),10.6498,78.5144,Local stop on Viralimalai road
+
+MNP_THUVARANKURICHI,Thuvarankurichi Bus Stand,10.5095,78.3533,Main Thuvarankurichi stand
+MNP_THUVARANKURICHI_JN,Vathipatti Junction Stop,10.5244,78.3612,Thuvarankurichi junction area
+
+MNP_PUTHANATHAM,Puthanatham Bus Stand,10.7065,78.4617,Puthanatham central stop
+MNP_VALANADU,Valanadu Stop,10.5869,78.3788,Valanadu village center
+MNP_MARUNGAPURAM,Marungapuram Stop,10.5730,78.3550,Marungapuram local stop
+MNP_KEERANUR,Keeranur Bus Stand (near Manapparai),10.6629,78.6071,Keeranur town bus stand
+MNP_NEPPATTI,Nepalpatty Stop,10.5969,78.4083,Nepalpatty village stop
+MNP_MUTTAMPATTI,Muttampatti Stop,10.6021,78.3996,Small village stop near Manapparai
+
+NH45_MP_1,NH45 Corridor Stop 1,10.6330,78.4480,Highway corridor north of Manapparai
+NH45_MP_2,NH45 Corridor Stop 2,10.6450,78.4690,Highway corridor towards Trichy
+NH45_MP_3,NH45 Corridor Stop 3,10.6040,78.4080,Highway corridor towards Dindigul
+NH45_MP_4,NH45 Corridor Stop 4,10.5890,78.3870,Highway corridor rural belt
